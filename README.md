@@ -1,3 +1,9 @@
+# Animeflix | Upstream project
+
+This repository contains the Animeflix project originally developed by [chirag-droid](https://github.com/chirag-droid/animeflix). The original documentation and credits are retained below. This repository does not claim authorship of the upstream project.
+
+---
+
 <!-- PROJECT LOGO -->
 <p align="center">
   <div align="center">
